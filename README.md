@@ -4,4 +4,11 @@
 Aram відповідає за 
 
 1 JavaScript
-1 HTML
+
+2 HTML
+
+David відповідає за 
+
+1 figma 
+
+2 CSS
