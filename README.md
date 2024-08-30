@@ -10,6 +10,6 @@
 
 **David** відповідає за 
 
-1 figma 
+* figma 
 
-2 CSS
+* CSS
